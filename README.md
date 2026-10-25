@@ -1,3 +1,3 @@
 # chatapp
-this is my first trial chat app codes(backups)
+this is first trial chat app codes(backups)
 
